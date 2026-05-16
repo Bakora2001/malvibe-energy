@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://malvibe-energy.com/sitemap.xml
