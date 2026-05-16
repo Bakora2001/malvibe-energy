@@ -97,7 +97,7 @@ export default function Footer() {
 
         <div className="mt-12 pt-6 border-t border-white/10 flex flex-col sm:flex-row gap-3 justify-between items-center text-xs text-white/50">
           <p>© {new Date().getFullYear()} Malvibe Technologies. All rights reserved.</p>
-          <p className="italic">Designed with care for a <span className="text-primary">greener</span> Kenya.</p>
+          <p className="italic">Designed with care for a <span className="text-primary">greener</span> Kenya</p>
         </div>
       </div>
     </footer>
